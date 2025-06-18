@@ -1,2 +1,3 @@
-# Introduction of Me
-# Mini content for introduction to get to know me
+# Mini introduction of me
+# Get to know me design
+# Updates and edits
